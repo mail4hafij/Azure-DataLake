@@ -32,5 +32,5 @@
 | Access keys                     | Yes               | Yes              |
 | Shared Access Signature (SAS)   | Yes               | Yes              |
 | RBAC                            | Yes               | Yes              |
-| Access Control Lists            | No                | Yes              |
+| Access Control Lists (ACL)      | No                | Yes              |
 
