@@ -2,7 +2,6 @@
 
 ## TODO
 
-## Conceptual model
 <img src="multi-protocol-access.jpg" />
 
 
