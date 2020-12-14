@@ -1,3 +1,3 @@
 # Azure-DataLake
 
-<img src="multiple-access-protocol.jpg" />
+<img src="multi-protocol-access.jpg" />
