@@ -1,5 +1,5 @@
 # Azure-DataLake
-The idea is to connect to ADL storage (Azure Data Lake) from Databricks cluster and perform some Scala script on the ADL data. Let's imagine we have a Products.csv file in a ADL container. In this example, the Databricks connect to ADL storage using Azure AppId and mount ADL data (Products.csv) and save the mounted data in another file Products-mount.csv on the same ADL container. Make sure to register an App in Azure Active Directory (AD) and generate a password for the App (Certificates & Secrets). Also make sure to allow the App proper access to ADL storage using RBAC (Storage Blob Data Contributor).
+The idea is to connect to ADL storage (Azure Data Lake) from Databricks cluster and perform some Scala script on the ADL data. Let's imagine we have a Products.csv file in a ADL container (Let's have the container name "demo"). In this example, the Databricks connect to ADL storage using Azure AppId and mount ADL data (Products.csv) and save the mounted data in another file Products-mount.csv on the same ADL container. Make sure to register an App in Azure Active Directory (AD) and generate a password for the App (Certificates & Secrets). Also make sure to allow the App proper access to ADL storage using RBAC (Storage Blob Data Contributor).
 
 Find the Scala script and fill in the necessary information. 
  
