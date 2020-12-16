@@ -11,9 +11,11 @@ val containerName = "";
 var storageAccountName = "";
 ``` 
 
-## Conceptual model
+## Conceptual model Azure Data Lake (ADL)
 <img src="multi-protocol-access.jpg" />
 
+## Conceptual model Data Bricks
+<img src="databricks.jpg" />
 
 ## Blob storage vs ADL Gen2 Storage
 
