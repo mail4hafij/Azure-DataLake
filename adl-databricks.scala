@@ -29,4 +29,4 @@ display(df)
 
 
 val selected = df.select("productId", "title")
-selected.save.csv("/mnt/data/" + containerName + "/Products-mount.csv")
+selected.save.csv("/mnt/data/" + containerName + "/output/Products-mount.csv")
