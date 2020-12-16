@@ -11,7 +11,7 @@ val containerName = "";
 var storageAccountName = "";
 ``` 
 
-
+## Conceptual model
 <img src="multi-protocol-access.jpg" />
 
 
